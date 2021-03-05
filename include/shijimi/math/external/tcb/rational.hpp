@@ -3,6 +3,8 @@
 // Distributed under the Boost Software License, Version 1.0. (See accompanying
 // file LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
 
+//! @cond
+
 #ifndef TCB_RATIONAL_HPP_INCLUDED
 #define TCB_RATIONAL_HPP_INCLUDED
 
@@ -591,3 +593,5 @@ std::ostream& operator<<(std::ostream& os, const rational<T>& r)
 #undef TCB_CONSTEXPR14
 
 #endif // TCB_RATIONAL_HPP_INCLUDED
+
+//! @endcond

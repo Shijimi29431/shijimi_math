@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['n_22',['N',['../basic__types_8hpp.html#adde97dcf8e668d1d9245287a34dce477',1,'shijimi::math']]]
+  ['q_18',['Q',['../basic__types_8hpp.html#a9d431f0ee1d2bff60be46157ba6404b5',1,'shijimi::math']]]
 ];

@@ -23,11 +23,6 @@ for the JavaScript code in this file
 var NAVTREE =
 [
   [ "shijimi math", "index.html", [
-    [ "Classes", "annotated.html", [
-      [ "Class List", "annotated.html", "annotated_dup" ],
-      [ "Class Index", "classes.html", null ],
-      [ "Class Hierarchy", "hierarchy.html", "hierarchy" ]
-    ] ],
     [ "Files", "files.html", [
       [ "File List", "files.html", "files_dup" ],
       [ "File Members", "globals.html", [
@@ -40,7 +35,7 @@ var NAVTREE =
 
 var NAVTREEINDEX =
 [
-".html"
+"addable_8hpp.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
