@@ -1,0 +1,3 @@
+# shijimi math
+
+c++20 math with boost, eigen, etc...
