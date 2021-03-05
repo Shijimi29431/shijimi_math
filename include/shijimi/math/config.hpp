@@ -1,5 +1,6 @@
+
 /*!
- * @file config.hpp
+ * @file
  * @brief Defines configuration macros used throughout the library.
  * @copyright shijimi29431 2021
  * Distributed under the Boost Software License, Version 1.0.
@@ -9,14 +10,13 @@
 #ifndef SHIJIMI_MATH_CONFIG_HPP
 #define SHIJIMI_MATH_CONFIG_HPP
 
+#pragma once
+
 #include <boost/config.hpp>
 
 // -------------------------
 // User-adjustable macros
 // -------------------------
-
-//! If you have not https://github.com/tcbrindle/rational.git installed, comment out here.
-#define SHIJIMI_MATH_HAS_TCBRINDLER_RATIONAL
 
 //! If you have not EIGEN installed, comment out here.
 #define SHIJIMI_MATH_HAS_EIGEN

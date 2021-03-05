@@ -1,0 +1,4 @@
+var structtcb_1_1detail_1_1rational__value__type_3_01_t_00_01detail_1_1void__t_3_01std_1_1enable__if37c535cbbe417db8a52fc1788454133d =
+[
+    [ "type", "structtcb_1_1detail_1_1rational__value__type_3_01_t_00_01detail_1_1void__t_3_01std_1_1enable__if37c535cbbe417db8a52fc1788454133d.html#a3d508ac90009667426a492da3ab079de", null ]
+];
